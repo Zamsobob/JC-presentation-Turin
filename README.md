@@ -1,5 +1,5 @@
 # JC-presentation-Turin
-Slides for a 30 min presentation I gave while during a research exchange in Turin, Italy.
+**JC_PP.pptx** contains slides for a 30 min presentation I gave during a research exchange in Turin, Italy.
 
 
 Outline of the talk:  
